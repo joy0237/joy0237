@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joy0237
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning MCA
+- 🌱 Completed MCA
 
 
 <!---
